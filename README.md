@@ -37,7 +37,6 @@ All of my projects are available at [yacinzr-Portfolio](https://yacinzr.github.i
   <img src="./SQL.png" alt="SQL" width="40" height="40"/>
   <img src="./azure.png" alt="azure" width="40" height="40"/>
   <img src="./aws.png" alt="aws" width="40" height="40"/>
-  <img src="./docker.PNG" alt="docker" width="40" height="40"/>
-  <img src="./hadoop.png" alt="hadoop" width="40" height="40"/>
+
 
 </p>
