@@ -31,7 +31,7 @@ All of my projects are available at [yacinzr-Portfolio](https://yacinzr.github.i
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="./assets/Python.png" alt="Python" width="40" height="40"/>
+  <img src="./Python.png" alt="Python" width="40" height="40"/>
   <img src="./assets/Scikit_learn.PNG" alt="Scikit-learn" width="40" height="40"/>
   <img src="./assets/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
   <img src="./assets/PyTorch.png" alt="PyTorch" width="40" height="40"/>
