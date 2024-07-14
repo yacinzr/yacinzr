@@ -10,7 +10,7 @@
 
 ### 🌱 I'm currently learning
 - Advanced AI techniques and applications
-- [Any specific AI technologies or frameworks you're focusing on]
+- Gen AI
 
 ### 👨‍💻 Projects
 All of my projects are available at [yacinzr-Portfolio](https://yacinzr.github.io/Portfolio-/)
