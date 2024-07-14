@@ -1,7 +1,7 @@
 # Yacine ZERIKAT
 
 <div align="center">
-    <img src="./assets/your-gif-name.gif" width="600" height="300" alt="Data Science & AI Animation"/>
+    <img src="./0_Yb_BsikIKFAtuKj9.gif" width="600" height="300" alt="Data Science & AI Animation"/>
 
 </div>
 
