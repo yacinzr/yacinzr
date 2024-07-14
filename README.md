@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Data Scientist & AI Engineer
 
-[Your existing introduction]
+
 
 ### 🌱 I'm currently learning
 - Advanced AI techniques and applications
@@ -18,16 +18,15 @@ All of my projects are available at [yacinzr-Portfolio](https://yacinzr.github.i
 ### 💬 Ask me about
 - Data Science & AI
 - Machine Learning
-- MERN Stack
+- Data Engineering
+- Data Analysis
 - Computer Science
-- [Any other areas of expertise you'd like to highlight]
+
 
 ### 📫 How to reach me
 - Email: zerikatyacine@gmail.com
 - LinkedIn: [Yacine-ZERIKAT](https://linkedin.com/in/yacine-zerikat-b0256a188)
 
-### ⚡ Fun fact
-[Add a fun fact about yourself, related to coding or your interests]
 
 ### 🛠 Languages and Tools
 
