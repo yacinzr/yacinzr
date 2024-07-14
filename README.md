@@ -30,6 +30,13 @@ All of my projects are available at [yacinzr-Portfolio](https://yacinzr.github.i
 [Add a fun fact about yourself, related to coding or your interests]
 
 ### 🛠 Languages and Tools
-[Your existing skills section, you can add icons for visual appeal]
 
-[Rest of your existing README content]
+<p align="left">
+  <img src="./assets/Python.png" alt="Python" width="40" height="40"/>
+  <img src="./assets/Scikit_learn.PNG" alt="Scikit-learn" width="40" height="40"/>
+  <img src="./assets/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="./assets/PyTorch.png" alt="PyTorch" width="40" height="40"/>
+  <img src="./assets/scala.png" alt="Scala" width="40" height="40"/>
+  <img src="./assets/R.PNG" alt="R" width="40" height="40"/>
+  <img src="./assets/SQL.png" alt="SQL" width="40" height="40"/>
+</p>
