@@ -32,10 +32,12 @@ All of my projects are available at [yacinzr-Portfolio](https://yacinzr.github.i
 
 <p align="left">
   <img src="./Python.png" alt="Python" width="40" height="40"/>
-  <img src="./assets/Scikit_learn.PNG" alt="Scikit-learn" width="40" height="40"/>
-  <img src="./assets/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="./assets/PyTorch.png" alt="PyTorch" width="40" height="40"/>
-  <img src="./assets/scala.png" alt="Scala" width="40" height="40"/>
-  <img src="./assets/R.PNG" alt="R" width="40" height="40"/>
-  <img src="./assets/SQL.png" alt="SQL" width="40" height="40"/>
+  <img src="./R.PNG" alt="R" width="40" height="40"/>
+  <img src="./scala.png" alt="scala" width="40" height="40"/>
+  <img src="./SQL.png" alt="SQL" width="40" height="40"/>
+  <img src="./azure.png" alt="azure" width="40" height="40"/>
+  <img src="./aws.PNG" alt="aws" width="40" height="40"/>
+  <img src="./docker.png" alt="docker" width="40" height="40"/>
+    <img src="./hadoop.png" alt="hadoop" width="40" height="40"/>
+
 </p>
