@@ -1,7 +1,8 @@
 # Yacine ZERIKAT
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlOTBjMzIwMzM5MzBmNjQ5OWM2NGJlOTc4N2NjMzc2ZWZjZjI3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+    <img src="./assets/your-gif-name.gif" width="600" height="300" alt="Data Science & AI Animation"/>
+
 </div>
 
 ## 👨‍💻 Data Scientist & AI Engineer
