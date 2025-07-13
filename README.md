@@ -1,4 +1,4 @@
-# Yacine ZERIKAT
+# Yacine Z
 
 <div align="center">
   <img src="./0_Yb_BsikIKFAtuKj9.gif" width="600" height="400" alt="Data Engineering Animation"/>
