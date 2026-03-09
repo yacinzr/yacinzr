@@ -19,7 +19,7 @@
 
 ### 💼 Projets clés :
 Retrouvez mes projets sur : [yacinzr-Portfolio](https://yacinzr.github.io/Portfolio-/)
-- 🔁 **Pipeline ETL sur AWS avec Glue & S3**
+- 🔁 **Pipeline ETL sur Azure **
 - 🧠 **Détection d'anomalies en Spark (PySpark + MLlib)**
 - 📊 **Dashboards BI (Power BI, QuickSight)**
 
