@@ -6,24 +6,7 @@
 
 ## 🚀 Data Scientist | Cloud & Big Data Specialist
 
-🔧 Passionné par la conception de pipelines de données robustes, la modélisation de bases de données, l’optimisation des performances et l’industrialisation des modèles IA.
+🔧 Passionné par la conception de pipelines de données robustes, la modélisation de bases de données,
 
 ---
 
-### 🌱 En ce moment, j'apprends :
-- Kubernetes avancé & DataOps
-- Orchestration & observabilité (Airflow, dbt, Great Expectations)
-- Intégration GenAI dans les pipelines de données
-
----
-
-### 💼 Projets clés :
-Retrouvez mes projets sur : [yacinzr-Portfolio](https://yacinzr.github.io/Portfolio-/)
-- 🔁 **Pipeline ETL sur Azure **
-- 🧠 **Détection d'anomalies en Spark (PySpark + MLlib)**
-- 📊 **Dashboards BI (Power BI, QuickSight)**
-
----
-
-### 🧠 Ask me about :
-- Architecture
